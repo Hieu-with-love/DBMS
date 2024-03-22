@@ -1,0 +1,11 @@
+D:\Nam 2 HK2 2023-2024\DatabaseManagerSystem\Documents in school\Chapter 3\Code C#\CallFunctionsFromCSharp\bin\Debug\CallFunctionsFromCSharp.exe.config
+D:\Nam 2 HK2 2023-2024\DatabaseManagerSystem\Documents in school\Chapter 3\Code C#\CallFunctionsFromCSharp\bin\Debug\CallFunctionsFromCSharp.exe
+D:\Nam 2 HK2 2023-2024\DatabaseManagerSystem\Documents in school\Chapter 3\Code C#\CallFunctionsFromCSharp\bin\Debug\CallFunctionsFromCSharp.pdb
+D:\Nam 2 HK2 2023-2024\DatabaseManagerSystem\Documents in school\Chapter 3\Code C#\CallFunctionsFromCSharp\obj\Debug\CallFunctionsFromCSharp.csproj.AssemblyReference.cache
+D:\Nam 2 HK2 2023-2024\DatabaseManagerSystem\Documents in school\Chapter 3\Code C#\CallFunctionsFromCSharp\obj\Debug\CallFunctionsFromCSharp.csproj.SuggestedBindingRedirects.cache
+D:\Nam 2 HK2 2023-2024\DatabaseManagerSystem\Documents in school\Chapter 3\Code C#\CallFunctionsFromCSharp\obj\Debug\CallFunctionsFromCSharp.Form1.resources
+D:\Nam 2 HK2 2023-2024\DatabaseManagerSystem\Documents in school\Chapter 3\Code C#\CallFunctionsFromCSharp\obj\Debug\CallFunctionsFromCSharp.Properties.Resources.resources
+D:\Nam 2 HK2 2023-2024\DatabaseManagerSystem\Documents in school\Chapter 3\Code C#\CallFunctionsFromCSharp\obj\Debug\CallFunctionsFromCSharp.csproj.GenerateResource.cache
+D:\Nam 2 HK2 2023-2024\DatabaseManagerSystem\Documents in school\Chapter 3\Code C#\CallFunctionsFromCSharp\obj\Debug\CallFunctionsFromCSharp.csproj.CoreCompileInputs.cache
+D:\Nam 2 HK2 2023-2024\DatabaseManagerSystem\Documents in school\Chapter 3\Code C#\CallFunctionsFromCSharp\obj\Debug\CallFunctionsFromCSharp.exe
+D:\Nam 2 HK2 2023-2024\DatabaseManagerSystem\Documents in school\Chapter 3\Code C#\CallFunctionsFromCSharp\obj\Debug\CallFunctionsFromCSharp.pdb

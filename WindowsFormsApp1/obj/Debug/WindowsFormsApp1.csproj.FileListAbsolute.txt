@@ -1,0 +1,11 @@
+D:\Nam 2 HK2 2023-2024\DatabaseManagerSystem\Documents in school\Chapter 3\Code C#\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+D:\Nam 2 HK2 2023-2024\DatabaseManagerSystem\Documents in school\Chapter 3\Code C#\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+D:\Nam 2 HK2 2023-2024\DatabaseManagerSystem\Documents in school\Chapter 3\Code C#\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+D:\Nam 2 HK2 2023-2024\DatabaseManagerSystem\Documents in school\Chapter 3\Code C#\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+D:\Nam 2 HK2 2023-2024\DatabaseManagerSystem\Documents in school\Chapter 3\Code C#\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.SuggestedBindingRedirects.cache
+D:\Nam 2 HK2 2023-2024\DatabaseManagerSystem\Documents in school\Chapter 3\Code C#\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+D:\Nam 2 HK2 2023-2024\DatabaseManagerSystem\Documents in school\Chapter 3\Code C#\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+D:\Nam 2 HK2 2023-2024\DatabaseManagerSystem\Documents in school\Chapter 3\Code C#\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+D:\Nam 2 HK2 2023-2024\DatabaseManagerSystem\Documents in school\Chapter 3\Code C#\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+D:\Nam 2 HK2 2023-2024\DatabaseManagerSystem\Documents in school\Chapter 3\Code C#\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+D:\Nam 2 HK2 2023-2024\DatabaseManagerSystem\Documents in school\Chapter 3\Code C#\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb

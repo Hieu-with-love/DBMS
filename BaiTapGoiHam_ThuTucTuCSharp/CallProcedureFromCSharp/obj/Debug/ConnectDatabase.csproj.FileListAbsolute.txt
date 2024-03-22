@@ -1,0 +1,11 @@
+D:\Nam 2 HK2 2023-2024\DatabaseManagerSystem\Documents in school\Chapter 3\Code C#\ConnectDatabase\bin\Debug\ConnectDatabase.exe.config
+D:\Nam 2 HK2 2023-2024\DatabaseManagerSystem\Documents in school\Chapter 3\Code C#\ConnectDatabase\bin\Debug\ConnectDatabase.exe
+D:\Nam 2 HK2 2023-2024\DatabaseManagerSystem\Documents in school\Chapter 3\Code C#\ConnectDatabase\bin\Debug\ConnectDatabase.pdb
+D:\Nam 2 HK2 2023-2024\DatabaseManagerSystem\Documents in school\Chapter 3\Code C#\ConnectDatabase\obj\Debug\ConnectDatabase.csproj.AssemblyReference.cache
+D:\Nam 2 HK2 2023-2024\DatabaseManagerSystem\Documents in school\Chapter 3\Code C#\ConnectDatabase\obj\Debug\ConnectDatabase.csproj.SuggestedBindingRedirects.cache
+D:\Nam 2 HK2 2023-2024\DatabaseManagerSystem\Documents in school\Chapter 3\Code C#\ConnectDatabase\obj\Debug\ConnectDatabase.Form1.resources
+D:\Nam 2 HK2 2023-2024\DatabaseManagerSystem\Documents in school\Chapter 3\Code C#\ConnectDatabase\obj\Debug\ConnectDatabase.Properties.Resources.resources
+D:\Nam 2 HK2 2023-2024\DatabaseManagerSystem\Documents in school\Chapter 3\Code C#\ConnectDatabase\obj\Debug\ConnectDatabase.csproj.GenerateResource.cache
+D:\Nam 2 HK2 2023-2024\DatabaseManagerSystem\Documents in school\Chapter 3\Code C#\ConnectDatabase\obj\Debug\ConnectDatabase.csproj.CoreCompileInputs.cache
+D:\Nam 2 HK2 2023-2024\DatabaseManagerSystem\Documents in school\Chapter 3\Code C#\ConnectDatabase\obj\Debug\ConnectDatabase.exe
+D:\Nam 2 HK2 2023-2024\DatabaseManagerSystem\Documents in school\Chapter 3\Code C#\ConnectDatabase\obj\Debug\ConnectDatabase.pdb
